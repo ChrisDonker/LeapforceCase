@@ -293,19 +293,19 @@ button img {
 }
 
 @font-face {
-  font-family: TTCommonsPro;
+  font-family: 'TTCommonsPro';
   src: url("/../fonts/TT Commons Pro Normal.otf") format("opentype");
   font-weight: 450;
 }
 
 @font-face {
-  font-family: TTCommonsPro;
+  font-family: 'TTCommonsPro';
   src: url("/../fonts/TT Commons Pro DemiBold.otf") format("opentype");
   font-weight: 600;
 }
 
 @font-face {
-  font-family: GTAlpina;
+  font-family: 'GTAlpina';
   src: url("/../fonts/GTAlpina-Light.otf") format("opentype");
   font-weight: 300;
 }
