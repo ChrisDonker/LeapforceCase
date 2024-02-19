@@ -108,7 +108,7 @@ ul li {
   display: flex;
   
   border-radius: 2%;
-  background-image: url("/img/image.png");
+  background-image: url("img/image.png");
 }
 
 /* card title */
