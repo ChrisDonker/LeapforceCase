@@ -1,6 +1,6 @@
 :root {
   --text-color-dark: #000000;
-  --text-color-grey: #bf564d;
+  --text-color-accent: #bf564d;
   --text-color-white: #ffffff;
   --text-color-light: #fafafa;
 
@@ -55,7 +55,7 @@ h1 span {
 p {
   font-family: "TTCommonsPro", sans-serif;
   font-weight: 450;
-  color: var(--text-color-grey);
+  color: var(--text-color-accent);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
 }
@@ -84,7 +84,7 @@ a {
   text-decoration: none;
   font-family: "TTCommonsPro", sans-serif;
   font-weight: 450;
-  color: var(--text-color-grey);
+  color: var(--text-color-accent);
   font-size: var(--font-size-p);
   line-height: var(--line-height-p);
 }
@@ -108,7 +108,7 @@ ul li {
   display: flex;
   
   border-radius: 2%;
-  background-image: url("img/image.png");
+  background-image: url("../img/image.png");
 }
 
 /* card title */
